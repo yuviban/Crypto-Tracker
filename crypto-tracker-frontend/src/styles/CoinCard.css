@@ -1,0 +1,25 @@
+.coin-card {
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 10px;
+  text-align: center;
+  width: 150px;
+  background: #1b1b2f;
+  color: white;
+}
+
+.coin-card img {
+  width: 50px;
+  height: 50px;
+}
+
+.coin-card button {
+  margin-top: 5px;
+  padding: 5px 10px;
+  background: #1e90ff;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  cursor: pointer;
+}

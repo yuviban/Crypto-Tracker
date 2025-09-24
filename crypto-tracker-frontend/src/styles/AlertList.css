@@ -1,0 +1,23 @@
+.alert-list {
+  padding: 20px;
+  background: #0f111a;
+  color: white;
+}
+
+.alert-item {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px 0;
+  background: #1b1b2f;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.alert-item button {
+  background: #ff4c4c;
+  border: none;
+  color: white;
+  padding: 5px 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}
